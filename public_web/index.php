@@ -6,6 +6,8 @@
  * Time: 11:15 PM
  */
 
+// Show all information, defaults to INFO_ALL
 phpinfo();
+
 
 ?>
